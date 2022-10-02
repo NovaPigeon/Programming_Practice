@@ -1,0 +1,67 @@
+Case 12:
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 990
+000:10 red iceman 1 marched to city 1 with 30 elements and force 20
+000:10 blue lion 1 marched to city 1 with 10 elements and force 40
+000:40 red iceman 1 attacked blue lion 1 in city 1 with 30 elements and force 20
+000:40 blue lion 1 was killed in city 1
+000:40 red iceman 1 earned 10 elements for his headquarter
+000:50 972 elements in red headquarter
+000:50 990 elements in blue headquarter
+000:55 red iceman 1 has bomb
+001:00 red lion 2 born
+Its loyalty is 962
+001:00 blue dragon 2 born
+Its morale is 10.00
+001:10 red lion 2 marched to city 1 with 10 elements and force 40
+001:10 blue dragon 2 marched to city 1 with 90 elements and force 20
+001:10 red iceman 1 reached blue headquarter with 39 elements and force 40
+001:40 red lion 2 attacked blue dragon 2 in city 1 with 10 elements and force 40
+001:40 blue dragon 2 fought back against red lion 2 in city 1
+001:40 red lion 2 was killed in city 1
+001:40 blue dragon 2 earned 10 elements for his headquarter
+001:50 962 elements in red headquarter
+001:50 902 elements in blue headquarter
+001:55 red iceman 1 has bomb
+001:55 blue dragon 2 has arrow(3)
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 blue dragon 2 reached red headquarter with 68 elements and force 20
+002:10 red wolf 3 marched to city 1 with 20 elements and force 30
+002:10 blue ninja 3 marched to city 1 with 20 elements and force 50
+002:38 blue ninja 3 used a bomb and killed red wolf 3
+002:50 942 elements in red headquarter
+002:50 882 elements in blue headquarter
+002:55 red iceman 1 has bomb
+002:55 blue dragon 2 has arrow(3)
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 20 elements and force 50
+003:10 blue iceman 4 marched to city 1 with 30 elements and force 20
+003:38 blue iceman 4 used a bomb and killed red ninja 4
+003:50 922 elements in red headquarter
+003:50 852 elements in blue headquarter
+003:55 red iceman 1 has bomb
+003:55 blue dragon 2 has arrow(3)
+004:00 red dragon 5 born
+Its morale is 9.24
+004:00 blue wolf 5 born
+004:10 red dragon 5 marched to city 1 with 90 elements and force 20
+004:10 blue wolf 5 marched to city 1 with 20 elements and force 30
+004:40 red dragon 5 attacked blue wolf 5 in city 1 with 90 elements and force 20
+004:40 blue wolf 5 was killed in city 1
+004:40 red dragon 5 yelled in city 1
+004:40 red dragon 5 earned 30 elements for his headquarter
+004:50 854 elements in red headquarter
+004:50 832 elements in blue headquarter
+004:55 red dragon 5 has arrow(3)
+004:55 red iceman 1 has bomb
+004:55 blue dragon 2 has arrow(3)
+005:00 red iceman 6 born
+005:00 blue lion 6 born
+Its loyalty is 822
+005:10 red iceman 6 marched to city 1 with 30 elements and force 20
+005:10 blue lion 6 marched to city 1 with 10 elements and force 40
+005:10 red dragon 5 reached blue headquarter with 98 elements and force 20
+005:10 blue headquarter was taken
